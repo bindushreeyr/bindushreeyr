@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there😊,I'm Bindu Shree Y R
 🔭 I’m currently pursuing MCA at R V Institute of Technology and Management<br>👯 I’m looking to collaborate on web development and IoT-based projects<br>🤝 I’m looking for help with advanced Django features, API integration, and deploying full-stack apps<br>🌱 I’m currently learning Flask, advanced Python, and frontend frameworks like React<br>💬 Ask me about Python, Django, student attendance systems, and Raspberry Pi projects<br>⚡ Fun fact: I built a remote pet feeder that sends email alerts when your pet is fed!
 
 
