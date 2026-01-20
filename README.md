@@ -1,21 +1,74 @@
-# 💫 About Me:
-I am cureently seeking for opportunities
+<div align="center">
 
+# Hey, I'm Ayyaz Zafar
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bindu-shree-y-r-0218542b0/  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bindushreeyrgnm@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+15%2B+Years+Experience;AI+Enthusiast+%7C+Building+with+AI+Tools;YouTuber+%40AyyazTech;Automation+Expert+%7C+n8n+Workflows)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bindushreeyr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bindushreeyr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bindushreeyr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![YouTube](https://img.shields.io/badge/YouTube-@AyyazTech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AyyazTech)
+[![Twitter](https://img.shields.io/badge/Twitter-@AyyazZafar-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyyazZafar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AyyazZafar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AyyazZafar)
+[![Website](https://img.shields.io/badge/Website-ayyaztech.com-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayyaztech.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bindushreeyr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bindushreeyr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a Full-Stack Developer with **15+ years of experience** building web applications and developer tools. I help developers **build faster with AI tools and automation**.
+
+- Building **AI-powered applications** and browser extensions
+- Creating **n8n automation workflows** for productivity
+- Developing **Cortex** - an AI browser assistant Chrome extension
+- Sharing tutorials on **AI coding workflows** on YouTube
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Tools
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayyazzafar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect!
+
+I'm always interested in collaborating on **AI projects**, **developer tools**, and **automation workflows**.
+
+[![Email](https://img.shields.io/badge/Get_in_Touch-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ayyaztech.com)
+
+</div>
