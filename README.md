@@ -65,10 +65,11 @@ Currently, I’m focused on strengthening my problem-solving skills, building im
 
 <div align="center">
 
-### Let's Connect!
+### 🤝 Let’s Connect!
 
-I'm always interested in collaborating on **AI projects**, **developer tools**, and **Web Development**.
+I’m open to collaborating on **Python & Django projects**, **Web Development**, and **learning-driven tech builds**.
 
-[![Email](https://img.shields.io/badge/Get_in_Touch-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@bindusreeyrgnm@gmail.com)
+[![Email](https://img.shields.io/badge/Get_in_Touch-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bindushreeyrgnm@gmail.com)
 
 </div>
+
