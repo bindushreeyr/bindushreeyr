@@ -2,7 +2,7 @@
 
 # Hey, I'm Bindu Shree Y R
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer+%7C+MCA+Graduate;Python+%26+Django+Developer;Building+Real-World+Web+Applications;DSA+Learner+%7C+Backend+Focused)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=MCA+Graduate+%7C+Aspiring+Software+Developer;Python+%26+Django+Developer;Building+Scalable+Web+Applications;DSA+Learner+%7C+Backend+Focused)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-bindushreeyr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bindushreeyr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bindu_Shree_Y_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bindu-shree-y-r-0218542b0/)
