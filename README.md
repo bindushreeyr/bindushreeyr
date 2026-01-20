@@ -2,16 +2,12 @@
 
 # Hey, I'm Bindu Shree Y R
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+15%2B+Years+Experience;AI+Enthusiast+%7C+Building+with+AI+Tools;YouTuber+%40AyyazTech;Automation+Expert+%7C+n8n+Workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer+%7C+MCA+Graduate;Python+%26+Django+Developer;Building+Real-World+Web+Applications;DSA+Learner+%7C+Backend+Focused)](https://git.io/typing-svg)
 
-[![YouTube](https://img.shields.io/badge/YouTube-@AyyazTech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AyyazTech)
-[![Twitter](https://img.shields.io/badge/Twitter-@AyyazZafar-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyyazZafar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AyyazZafar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AyyazZafar)
-[![Website](https://img.shields.io/badge/Website-ayyaztech.com-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayyaztech.com)
+[![GitHub](https://img.shields.io/badge/GitHub-bindushreeyr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bindushreeyr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bindu_Shree_Y_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bindu-shree-y-r-0218542b0/)
+[![Email](https://img.shields.io/badge/Email-bindushreeyrgnm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bindushreeyrgnm@gmail.com)
 
-</div>
-
----
 
 
 
